@@ -1,4 +1,4 @@
-# Simple Weather App Tutorial
+# Weather App 
 
 <p align="left">
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server">
